@@ -1,7 +1,10 @@
 # RealTimeTicTacToe-main
 
 open terminal for install
+
 >>> npm i express nodemon http socket.io 
+
+
  run 
 open two tab for 2 player
 >>> localhost:3000
