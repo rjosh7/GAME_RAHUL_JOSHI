@@ -2,7 +2,7 @@
 
 open terminal for install
 >>> npm i express nodemon http socket.io 
->>> run 
+ run 
 open two tab for 2 player
 >>> localhost:3000
 after opening host type player name
